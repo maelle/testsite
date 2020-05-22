@@ -1,5 +1,6 @@
 [build]
-  command = "hugo -d public && pagedjs-cli public/index.html -o public/index.pdf"
+publish = "/public"
+command = "hugo -d public && pagedjs-cli public/index.html -o public/index.pdf"
 
 [context.production.environment]
   HUGO_VERSION = "0.70.0"
