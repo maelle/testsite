@@ -3,4 +3,4 @@
 	url = https://gitlab.pagedmedia.org/julientaq/pagedjs-hugo.git
 [submodule "themes/kraiklyn"]
 	path = themes/kraiklyn
-	url = git@github.com:jsnjack/kraiklyn.git
+	url = https://github.com:jsnjack/kraiklyn.git
